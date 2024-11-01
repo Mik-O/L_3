@@ -116,7 +116,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ZEg-g2-kIh"/>
-                        <color key="backgroundColor" systemColor="systemGray3Color"/>
+                        <color key="backgroundColor" systemColor="systemGray2Color"/>
                         <constraints>
                             <constraint firstItem="ZEg-g2-kIh" firstAttribute="bottom" secondItem="bLW-cE-W0c" secondAttribute="bottom" constant="20" id="1pj-z0-nDQ"/>
                             <constraint firstItem="nUx-zY-j7L" firstAttribute="centerX" secondItem="TS6-Z0-xVu" secondAttribute="centerX" id="PFE-Kx-k1o"/>
@@ -139,8 +139,8 @@
         <systemColor name="systemBrownColor">
             <color red="0.63529411764705879" green="0.51764705882352946" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
-        <systemColor name="systemGray3Color">
-            <color red="0.7803921568627451" green="0.7803921568627451" blue="0.80000000000000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
