@@ -13,11 +13,11 @@ class WelcomeViewController: UIViewController {
     @IBOutlet weak var welcomeLabel: UILabel!
     
     //MARK: - Public properties
-    var user = ""
+    var user: User!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        welcomeLabel.text = "Welcome, \(user)!"
+        welcomeLabel.text = "Welcome, \(user.person.fullName)!"
     
     }
     
