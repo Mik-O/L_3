@@ -16,7 +16,7 @@ struct User {
         User(
             login: "User",
             password: "Password",
-            person: Person(name: "Alexey", surname: "Efimov")
+            person: Person(name: "Tim", surname: "Cook")
         )
     }
 }
